@@ -1,0 +1,53 @@
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.csprojAssemblyReference.cache
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\DataCore.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\DataCore.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.csproj.CopyComplete
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\DataCore.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\DataCore.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.DataSource.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Licensing.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.SfListView.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Shared.Base.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.DataSource.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.SfListView.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\bin\Debug\Syncfusion.Shared.Base.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.csprojAssemblyReference.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.csproj.CoreCompileInputs.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.csproj.CopyComplete
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\DataCore\obj\Debug\DataCore.pdb
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\DataCore.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\DataCore.pdb
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\obj\Debug\DataCore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\obj\Debug\DataCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\obj\Debug\DataCore.csproj.CopyComplete
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\obj\Debug\DataCore.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\DataCore\obj\Debug\DataCore.pdb

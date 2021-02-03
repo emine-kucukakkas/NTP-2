@@ -1,0 +1,199 @@
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\Dashboard1.exe.config
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\Dashboard1.exe
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\Dashboard1.pdb
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignColors.dll
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csprojResolveAssemblyReference.cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\MainWindow.g.cs
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\App.g.cs
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.lref
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\MainWindow.baml
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.g.resources
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.Properties.Resources.resources
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.GenerateResource.Cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.csproj.CoreCompileInputs.cache
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.exe
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\Dashboard1.pdb
+D:\GIT\Dashboard1\Dashboard1\obj\Debug\App.baml
+D:\GIT\Dashboard1\Dashboard1\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Dashboard1.exe.config
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Dashboard1.exe
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Dashboard1.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignColors.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csprojAssemblyReference.cache
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\MainWindow.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\App.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.cache
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.lref
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\App.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\MainWindow.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.g.resources
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.Properties.Resources.resources
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csproj.GenerateResource.cache
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csproj.CopyComplete
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.exe
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil1.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil1.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page1.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page1.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.CRReportPromptEMFLib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.CrystalPrintControlLib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.PROMPTINGLib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.SAXSERIALIZELib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Interop.VLELib.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csproj.ResolveComReference.cache
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Bussines.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\DataCore.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Model.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\stdole.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Bussines.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\DataCore.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Model.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page2.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page2.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\cv.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\cv.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page3.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page3.baml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page4.g.cs
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page4.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csprojAssemblyReference.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csproj.ResolveComReference.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\cv.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page1.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page2.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page3.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page4.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil1.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\App.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.lref
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.exe
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Dashboard1.exe.config
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Dashboard1.exe
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Dashboard1.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Bussines.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\DataCore.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignColors.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Model.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.DataSource.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Licensing.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.SfListView.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Shared.Base.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\AxShockwaveFlashObjects.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\ShockwaveFlashObjects.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\stdole.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Bussines.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\DataCore.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Model.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.DataSource.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.SfListView.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\bin\Debug\Syncfusion.Shared.Base.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\App.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\cv.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page1.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page2.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page3.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Page4.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Views\Sicil1.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.g.resources
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.Properties.Resources.resources
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csproj.GenerateResource.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csproj.CoreCompileInputs.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\Dashboard1.csproj.CopyComplete
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\MainWindow.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\MainWindow.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\sonlogin.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\loginson.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\sonlogin.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\loginson.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\egitimHome.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\egitimHome.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\egitimMain.g.cs
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\egitimMain.baml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\obj\Debug\egitimListe.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Dashboard1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Dashboard1.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\sonlogin.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Views\cv.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Views\Page1.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Views\Page3.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Views\Page4.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Views\Sicil.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Views\Sicil1.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Dashboard1_MarkupCompile.lref
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Dashboard1.exe
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Dashboard1\obj\Debug\Dashboard1.pdb

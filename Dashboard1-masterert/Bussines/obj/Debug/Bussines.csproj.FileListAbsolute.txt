@@ -1,0 +1,68 @@
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.csprojAssemblyReference.cache
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Bussines.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Bussines.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\DataCore.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Model.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\DataCore.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Model.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.csproj.CopyComplete
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.pdb
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\turnike\Desktop\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.csproj.ResolveComReference.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.csprojAssemblyReference.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.csproj.ResolveComReference.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Bussines.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Bussines.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\DataCore.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Model.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.DataSource.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Licensing.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.SfListView.WinForms.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Shared.Base.dll
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\DataCore.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Model.pdb
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.DataSource.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.SfListView.WinForms.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\bin\Debug\Syncfusion.Shared.Base.xml
+D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Bussines\obj\Debug\Bussines.csproj.CopyComplete
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Bussines.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Bussines.pdb
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\DataCore.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\DataCore.pdb
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\obj\Debug\Bussines.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\obj\Debug\Bussines.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\obj\Debug\Bussines.csproj.CopyComplete
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\obj\Debug\Bussines.dll
+C:\Users\Admin\Desktop\personel\Dashboard1-masterert\Bussines\obj\Debug\Bussines.pdb

@@ -1,0 +1,84 @@
+﻿<Page x:Class="Dashboard1.Views.cv"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dashboard1.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="1158" d:DesignWidth="819"
+      Title="cv">
+
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="1158" VerticalAlignment="Top" Width="819" Background="#FFCFCFCF">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="221*"/>
+                <RowDefinition Height="670*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Rectangle Fill="#FFF4F4F5" Margin="0,0,163,15" Stroke="Black" HorizontalAlignment="Right" Width="199" RadiusX="10" RadiusY="10" Panel.ZIndex="1" Height="241" VerticalAlignment="Bottom"/>
+            <Image x:Name="imagea" HorizontalAlignment="Left" Margin="62,47,0,24" Width="199" Panel.ZIndex="1" Source="D:\son yedek 23062020\Dashboard1-master2\Dashboard1-master\Dashboard1\images\12029.png"/>
+            <TextBlock x:Name="lblAd"  Foreground="#FF270000" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Top" Height="98" Width="200" FontSize="40" FontStyle="Normal" FontFamily="Calibri bold" Panel.ZIndex="1" Margin="28,277,182,0" TextWrapping="Wrap" Grid.RowSpan="2"/>
+
+            <Grid HorizontalAlignment="Left" Height="1148" Grid.RowSpan="2" VerticalAlignment="Top" Width="271" Background="DarkCyan">
+                <Image x:Name="tel" Stretch="Fill" HorizontalAlignment="Left"   Height="32" Margin="0,546,0,0" VerticalAlignment="Top" Width="66" Source="Dashboard1/images/1.png"/>
+                <Image x:Name="posta" Stretch="Fill" HorizontalAlignment="Left" Height="32" Margin="0,610,0,0" VerticalAlignment="Top" Width="66" Source="/Dashboard1;component/images/3.png" RenderTransformOrigin="0.614,-1.438"/>
+                <Image x:Name="cep" Stretch="Fill" HorizontalAlignment="Left" Height="32" Margin="0,674,0,0" VerticalAlignment="Top" Width="66" Source="/Dashboard1;component/images/4.png"/>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="47" Margin="0,101,0,0" Grid.Row="1" VerticalAlignment="Top" Width="248" Background="#FF270000">
+                <TextBlock x:Name="lblUnvan"   Foreground="#FFE4B537" TextAlignment="Center"  Height="47" Width="242" FontSize="30" FontStyle="Normal" FontFamily="Calibri" Panel.ZIndex="1" ><InlineUIContainer>
+                        <TextBlock TextWrapping="Wrap" Text="CV Bilgileri" Width="350" Height="52" Foreground="DarkSalmon" />
+                    </InlineUIContainer></TextBlock>
+            </Grid>
+            <TextBlock x:Name="textBlock" TextAlignment="Center" HorizontalAlignment="Center" Margin="0,202,115,0" Grid.Row="1" TextWrapping="Wrap" Text="İLETİŞİM" VerticalAlignment="Top" FontSize="35" Width="200" Foreground="#FF270000" FontFamily="calibri"/>
+            <Grid HorizontalAlignment="Left" Height="28" Margin="0,36,0,0" VerticalAlignment="Top" Width="409" Background="#FF270000" Grid.Column="1">
+                <Label x:Name="kisisel" Content="KİŞİSEL BİLGİLER" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Foreground="#FFCFCFCF" HorizontalAlignment="Left" VerticalAlignment="Center" Height="47" Width="281" FontSize="30" FontStyle="Normal" FontFamily="Calibri" Panel.ZIndex="1"/>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="28" Margin="0,205,0,0" VerticalAlignment="Top" Width="409" Background="#FF270000" Grid.Column="1" Grid.RowSpan="2">
+                <Label x:Name="kisisel1" Content="ÇALIŞMA HAYATI" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Foreground="#FFCFCFCF" HorizontalAlignment="Left" VerticalAlignment="Center" Height="47" Width="281" FontSize="30" FontStyle="Normal" FontFamily="Calibri" Panel.ZIndex="1"/>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="28" Margin="0,65,0,0" VerticalAlignment="Top" Width="409" Background="#FF270000" Grid.Column="1" Grid.Row="1">
+                <Label x:Name="kisisel2" Content="OKUL BİLGİLERİ" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Foreground="#FFCFCFCF" HorizontalAlignment="Left" VerticalAlignment="Center" Height="47" Width="281" FontSize="30" FontStyle="Normal" FontFamily="Calibri" Panel.ZIndex="1"/>
+            </Grid>
+            <TextBlock x:Name="istel" TextAlignment="Left" HorizontalAlignment="Center" Margin="82,260,162,0" Grid.Row="1" TextWrapping="Wrap" Text="İş Tel" VerticalAlignment="Top" FontSize="25" Width="166" Foreground="#FF270000" FontFamily="calibri"/>
+            <TextBlock x:Name="adres" TextAlignment="Left" HorizontalAlignment="Center" Margin="82,325,139,0" Grid.Row="1" TextWrapping="Wrap" Text="Adres" VerticalAlignment="Top" FontSize="25" Width="189" Foreground="#FF270000" FontFamily="calibri"/>
+            <TextBlock x:Name="ceptel" TextAlignment="Left" HorizontalAlignment="Center" Margin="82,387,139,0" Grid.Row="1" TextWrapping="Wrap" Text="Cep Tel" VerticalAlignment="Top" FontSize="25" Width="189" Foreground="#FF270000" FontFamily="calibri"/>
+            <Grid HorizontalAlignment="Left" Height="28" Margin="0,217,0,0" VerticalAlignment="Top" Width="409" Background="#FF270000" Grid.Column="1" Grid.Row="1">
+                <Label x:Name="kisisel3" Content="EĞİTİM VE SEMİNER" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Foreground="#FFCFCFCF" HorizontalAlignment="Left" VerticalAlignment="Center" Height="47" Width="281" FontSize="30" FontStyle="Normal" FontFamily="Calibri" Panel.ZIndex="1"/>
+            </Grid>
+            <Image x:Name="image" Source="Dashboard1/images/profile.png" Stretch="Fill" HorizontalAlignment="Left" Height="56" Margin="340,21,0,0" VerticalAlignment="Top" Width="60"/>
+            <Image x:Name="image_Copy"  Stretch="Fill" Source="Dashboard1/images/work.png" HorizontalAlignment="Left" Height="56" Margin="345,190,0,0" VerticalAlignment="Top" Width="60" OpacityMask="#FFD42222" Grid.RowSpan="2"/>
+            <Image x:Name="image_Copy1" Stretch="Fill" Source="Dashboard1/images/ed.png" HorizontalAlignment="Left" Height="56" Margin="340,51,0,0" VerticalAlignment="Top" Width="60" Grid.Row="1" RenderTransformOrigin="0.608,-0.018"/>
+            <Image x:Name="image_Copy2" HorizontalAlignment="Left" Height="56" Margin="340,228,0,0" VerticalAlignment="Top" Width="60" Grid.Row="1"/>
+            <TextBlock x:Name="tckimlik" Grid.Column="1" HorizontalAlignment="Left" Margin="0,69,0,0" TextWrapping="Wrap" Text="TC Kimlik No:" VerticalAlignment="Top" Width="114" Height="25" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"       />
+            <TextBlock x:Name="dogumyeri" Grid.Column="1" HorizontalAlignment="Left" Margin="0,94,0,0" TextWrapping="Wrap" Text="Doğum Yeri" VerticalAlignment="Top" Width="114" Height="25" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"/>
+            <TextBlock x:Name="dogumtarihi" Grid.Column="1" HorizontalAlignment="Left" Margin="0,120,0,0" TextWrapping="Wrap" Text="Doğum Tarihi:" VerticalAlignment="Top" Width="114" Height="25" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"/>
+            <TextBlock x:Name="askerlik" Grid.Column="1" HorizontalAlignment="Left" Margin="0,145,0,0" TextWrapping="Wrap" Text="Askerlik Durumu:" VerticalAlignment="Top" Width="123" Height="25" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"/>
+            <TextBlock x:Name="isbolum" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Bölüm:" Width="58" Margin="408,245,0,17" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14" RenderTransformOrigin="-1.879,0.68" Grid.ColumnSpan="2" />
+            <TextBlock x:Name="birim" HorizontalAlignment="Left" Margin="409,274,0,0" TextWrapping="Wrap" Text="Birim:" VerticalAlignment="Top" Width="42" Height="25" Grid.RowSpan="2" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="isebaslama" HorizontalAlignment="Left" Margin="0,10,0,0" TextWrapping="Wrap" Text="İşe Başlama Tarihi:" VerticalAlignment="Top" Width="135" Height="25" Grid.Row="1" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14" Grid.Column="1"/>
+            <TextBlock x:Name="hizmetyili" HorizontalAlignment="Left" Margin="409,39,0,0" TextWrapping="Wrap" Text="Hizmet Yılı:" VerticalAlignment="Top" Width="114" Height="25" Grid.Row="1" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="kangrubu" Grid.Column="1" HorizontalAlignment="Left" Margin="0,170,0,0" TextWrapping="Wrap" Text="Kan Grubu:" VerticalAlignment="Top" Width="114" Height="25" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14" />
+            <TextBlock x:Name="okulu" Grid.Column="1" HorizontalAlignment="Left" Margin="0,127,0,0" TextWrapping="Wrap" Text="Okul:" VerticalAlignment="Top" Width="114" Height="24" Grid.Row="1" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"/>
+            <TextBlock x:Name="okulbolum" Grid.Column="1" HorizontalAlignment="Left" Margin="0,151,0,0" TextWrapping="Wrap" Text="Bölümü:" VerticalAlignment="Top" Width="114" Height="26" Grid.Row="1" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"/>
+            <TextBlock x:Name="bitirmeyili" Grid.Column="1" HorizontalAlignment="Left" Margin="0,177,0,0" TextWrapping="Wrap" Text="Bitirme Yılı:" VerticalAlignment="Top" Width="114" Height="24" Grid.Row="1" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"/>
+            <TextBlock x:Name="egitimdurumu" Grid.Column="1" HorizontalAlignment="Left" Margin="0,101,0,0" TextWrapping="Wrap" Text="Eğitim Durumu:" VerticalAlignment="Top" Width="114" Height="26" Grid.Row="1" Foreground="#FF2E1103" FontFamily="arial bold" FontSize="14"/>
+            <TextBlock x:Name="txtckimlk"     Grid.Column="1" HorizontalAlignment="Left" Margin="123,69,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276"/>
+            <TextBlock x:Name="txdogumyer" Grid.Column="1" HorizontalAlignment="Left" Margin="123,94,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276"/>
+            <TextBlock x:Name="txdogumtar" Grid.Column="1" HorizontalAlignment="Left" Margin="123,119,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276"/>
+            <TextBlock x:Name="txasker" Grid.Column="1" HorizontalAlignment="Left" Margin="123,145,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276"/>
+            <TextBlock x:Name="txkan" Grid.Column="1" HorizontalAlignment="Left" Margin="123,170,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276"/>
+            <TextBlock x:Name="txbolum" Grid.Column="1" HorizontalAlignment="Left" Margin="123,247,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276"/>
+            <TextBlock x:Name="txbirim" Grid.Column="1" HorizontalAlignment="Left" Margin="65,272,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="331" Height="19" Grid.RowSpan="2"/>
+            <TextBlock x:Name="txisbasi" Grid.Column="1" HorizontalAlignment="Left" Margin="127,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276" Grid.Row="1"/>
+            <TextBlock x:Name="txhizmetyil" Grid.Column="1" HorizontalAlignment="Left" Margin="125,39,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276" Grid.Row="1"/>
+            <TextBlock x:Name="txegitim" Grid.Column="1" HorizontalAlignment="Left" Margin="123,101,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276" Grid.Row="1"/>
+            <TextBlock x:Name="txokul" Grid.Column="1" HorizontalAlignment="Left" Margin="123,127,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276" Grid.Row="1"/>
+            <TextBlock x:Name="txokbolum" Grid.Column="1" HorizontalAlignment="Left" Margin="123,151,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276" Grid.Row="1"/>
+            <TextBlock x:Name="txbitirme" Grid.Column="1" HorizontalAlignment="Left" Margin="123,177,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276" Grid.Row="1"/>
+
+        </Grid>
+    </Grid>
+</Page>

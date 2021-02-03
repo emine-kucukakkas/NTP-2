@@ -1,0 +1,202 @@
+﻿<Page x:Class="Dashboard1.Views.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dashboard1.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="960"
+      Title="Page3" Loaded="Page_Loaded">
+
+    <Grid Background="Gray">
+        <DataGrid x:Name="dtg_seyahat" ItemsSource="{Binding}" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF042263" IsReadOnly="True" RowHeight="30" CanUserAddRows="False" CanUserSortColumns="True" CanUserResizeColumns="False" CanUserResizeRows="False" HorizontalGridLinesBrush="#FFB8B8B8" VerticalGridLinesBrush="#FFEEEEEE"  HeadersVisibility="Column"   AutoGenerateColumns="False" Margin="0,64,0,-27" SelectionChanged="dtg_seyahat_SelectionChanged_1"  >
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">                   
+                </Style>
+            </DataGrid.RowStyle>
+            <DataGrid.Columns>
+
+                <DataGridTextColumn
+                        Binding="{Binding Path=sicilNo}" IsReadOnly="True" Header="Sicil No"  >
+
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="Padding" Value="5"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="Background" Value="#2e61af"/>
+                            <Setter Property="BorderThickness" Value="5,0,0,0"/>
+                            <Setter Property="BorderBrush" Value="#FF134187"/>
+                            <Setter Property="Foreground" Value="White"/>
+
+                            <Style.Triggers>
+                                <Trigger Property="IsSelected" Value="True">
+                                    <Setter Property="Background" Value="#FF134187"/>
+                                    <Setter Property="BorderThickness" Value="5,0,0,0"/>
+                                    <Setter Property="BorderBrush" Value="White"/>
+                                    <Setter Property="Foreground" Value="White"/>
+                                </Trigger>
+                            </Style.Triggers>
+
+                        </Style>
+
+
+
+                    </DataGridTextColumn.CellStyle>
+
+                </DataGridTextColumn>
+
+                <DataGridTextColumn
+                    Binding="{Binding Path=adSoyad}" IsReadOnly="True" Header="Ad Soyad"  TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+
+                <DataGridTextColumn
+                    Binding="{Binding Path=Birim}" IsReadOnly="True" Header="Birim"  TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+
+
+                <DataGridTextColumn
+                    Binding="{Binding Path=Unvan}" IsReadOnly="True" Header="Ünvan"  TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Binding="{Binding Path=dogumYeri}" IsReadOnly="True" Header="Doğum Yeri"  TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Binding="{Binding Path=dogumTarihi,StringFormat=dd.MM.yyyy}" IsReadOnly="True" Header="Doğum tarihi" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Binding="{Binding Path=okulAdi, StringFormat=dd.MM.yyyy}" IsReadOnly="True" Header="Okul" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Binding="{Binding Path=Bolumu, StringFormat=dd.MM.yyyy}" IsReadOnly="True" Header="Bölüm" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Binding="{Binding Path=bitirdigiTarih, StringFormat=yyyy}" IsReadOnly="True" Header="Mezuniyet Tarihi" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Binding="{Binding Path=kurumHizmeti, StringFormat=dd.MM.yyyy}" IsReadOnly="True" Header="Kurum Hizmeti" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Binding="{Binding Path=toplamHizmet, StringFormat=dd.MM.yyyy}" IsReadOnly="True" Header="Toplam Hizmeti" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Left" />
+                            <Setter Property="Padding" Value="5,0,5,0"/>
+                            <Setter Property="VerticalAlignment" Value="Center" />
+                        </Style>
+
+                    </DataGridTextColumn.ElementStyle>
+
+
+                </DataGridTextColumn>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Düzenle"  />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+
+
+
+
+        </DataGrid>
+    </Grid>
+</Page>
